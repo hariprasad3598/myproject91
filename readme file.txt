@@ -2,3 +2,4 @@ Most of us have childhood memories of gaping at our elders in wonder when they n
 
 
 The heightened representations of reality can be seen in fairy tales. When children hear or read A Lac Of Rupees For A Piece Of Advice, they begin to imagine a world that is beyond what they can now see. This promotes imagination development. The skill is further improved by the visual fairytale novels and movie adaptations. A lac of Rupee is one such must read Indian tale.
+hsnjdudndjhefddhdjnndkdhkff
