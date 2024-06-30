@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY . /home/ubuntu/.jenkins/workspace/project
+COPY . /home/ubuntu/.jenkins/workspace/project9
