@@ -1,3 +1,7 @@
 FROM nginx:latest
 
-COPY . /home/ubuntu/.jenkins/workspace/project9
+COPY css1.txt /usr/share/nginx/html
+
+copy html.txt /usr/share/nginx/html
+
+
